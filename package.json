@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "ethers": "^5.5.1",
     "opensea-js": "git+https://github.com/0xa8c81519/opensea-js.git",
     "web3": "^1.6.0"
   }
